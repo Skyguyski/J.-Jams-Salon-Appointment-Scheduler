@@ -1,6 +1,7 @@
 # J. Jams Salon Appointment Scheduler
 ## Purpose
-This work was done for a college-level "Introduction to Programming" course, which is an introductory course on the basics of the C# language. We recieved a 99% on this project. No changes have been made to the code sense May 2023.
+This work was done for a college-level "Introduction to Programming" course, which is an introductory course on the basics of the C# language in Visual Studio. We recieved a 99% on this project. No changes have been made to the code sense May 2023.
+
 J. Jams Hair Salon is a ficticious company created for the sole purpose of our team to have a company name to use in our project. Any resimblance to actual companies is purely coincidental.
 AI was not used on this project.
 
